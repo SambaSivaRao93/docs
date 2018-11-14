@@ -18,7 +18,7 @@ The node.js way to deal with the above would look a bit more like this:
           return callback(err);
         }
         data += 1;
-        callback(data);
+        callback
       });
     }
 
